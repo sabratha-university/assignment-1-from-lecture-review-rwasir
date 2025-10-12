@@ -18,7 +18,7 @@ Edit the `Main.java` file and:
 **Answer:**
 > _Write your explanation here..._
 
-## الفرق بين Overloading و Overriding (كنقاط):
+## الفرق بين Overloading و Overriding :
 
 ## تعدد الدوال:
 
